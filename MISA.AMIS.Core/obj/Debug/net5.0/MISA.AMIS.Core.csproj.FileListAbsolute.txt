@@ -1,0 +1,14 @@
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\bin\Debug\net5.0\MISA.AMIS.Core.deps.json
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\bin\Debug\net5.0\MISA.AMIS.Core.dll
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\bin\Debug\net5.0\ref\MISA.AMIS.Core.dll
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\bin\Debug\net5.0\MISA.AMIS.Core.pdb
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.csprojAssemblyReference.cache
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.Resource.ResourceMessage.resources
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.csproj.GenerateResource.cache
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.AssemblyInfoInputs.cache
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.AssemblyInfo.cs
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.csproj.CoreCompileInputs.cache
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.dll
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\obj\Debug\net5.0\ref\MISA.AMIS.Core.dll
+C:\Users\ndtin\Desktop\ndtin\MISA.HCSN.API\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.pdb

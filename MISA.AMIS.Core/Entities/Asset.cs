@@ -54,5 +54,15 @@ namespace MISA.HCSH.Core.Entities
         /// tình trạng (đang sử dụng 1 ; không sử dụng 0)
         /// </summary>
         public bool? IsUsed { get; set; }
+
+        /// <summary>
+        /// Tên phòng ban
+        /// </summary>
+        public string DepartmentName { get; set; }
+
+        /// <summary>
+        /// Tên loại tài sản
+        /// </summary>
+        public string AssetTypeName { get; set; }
     }
 }

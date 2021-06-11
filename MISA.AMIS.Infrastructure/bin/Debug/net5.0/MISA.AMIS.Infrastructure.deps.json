@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MISA.AMIS.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.0.90",
+          "MISA.AMIS.Core": "1.0.0",
+          "MySqlConnector": "1.3.8"
+        },
+        "runtime": {
+          "MISA.AMIS.Infrastructure.dll": {}
+        }
+      },
+      "Dapper/2.0.90": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.90.36046"
+          }
+        }
+      },
+      "MySqlConnector/1.3.8": {
+        "runtime": {
+          "lib/net5.0/MySqlConnector.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.3.8.0"
+          }
+        }
+      },
+      "MISA.AMIS.Core/1.0.0": {
+        "runtime": {
+          "MISA.AMIS.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MISA.AMIS.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.0.90": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e4YjOLJptnpwHIbP8HxjaYf7So9lhUC43rvvGMEkH4Q4CiVlm4rOxYDo0HyuHlMQKj0U5Ob/nCMm52TUhTaZQg==",
+      "path": "dapper/2.0.90",
+      "hashPath": "dapper.2.0.90.nupkg.sha512"
+    },
+    "MySqlConnector/1.3.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zxE+MDrpfPLEUvkUR73brSLiWwDtp5yoNmEk5vEj0vzoVJmR2lBJcOPowigbkR305lM2IKgCL8TP1iIC9xSi7A==",
+      "path": "mysqlconnector/1.3.8",
+      "hashPath": "mysqlconnector.1.3.8.nupkg.sha512"
+    },
+    "MISA.AMIS.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
